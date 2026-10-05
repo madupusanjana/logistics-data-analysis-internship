@@ -20,4 +20,4 @@ Stockout Rate, Inventory Turnover
 Python, pandas, scikit-learn, matplotlib, seaborn, OR-Tools
 
 ## Author
-[Your Name]
+M Sanjana Reddy
